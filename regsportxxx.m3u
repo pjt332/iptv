@@ -3,6 +3,16 @@
 #EXTINF:-1,Sky Sports F1 
 http://emptyspaces.pw:5487/live/Paul9865/rhh1FTbalI/12005.ts
 
+#EXTINF:-1 Sky Sports: F1 FHD
+http://emptyspaces.pw:5487/live/Paul9865/rhh1FTbalI/454.ts
+
+#EXTINF:-1 Sky Sports: F1 HD (Catch-up)
+http://emptyspaces.pw:5487/live/Paul9865/rhh1FTbalI/455.ts
+
+#EXTINF:-1 Sky Sports: F1 SAT Feed
+http://emptyspaces.pw:5487/live/Paul9865/rhh1FTbalI/456.ts
+
+
 
 #EXTINF:-1,Sky Sports Main Event 
 http://emptyspaces.pw:5487/live/Paul9865/rhh1FTbalI/12006.ts
